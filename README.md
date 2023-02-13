@@ -134,7 +134,7 @@ Method 2:
 
 ## Credits
 
-* []():<br></br> 
+* `belongsToMany()` Many-to-Many Association Supplemental Lesson provided by [Sequelize](https://sequelize.org):<br></br> https://sequelize.org/api/v6/class/src/associations/belongs-to-many.js~belongstomany
 
 * []():<br></br> 
 
