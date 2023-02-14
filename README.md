@@ -136,7 +136,7 @@ Method 2:
 
 * `belongsToMany()` Many-to-Many Association Supplemental Lesson provided by [Sequelize](https://sequelize.org):<br></br> https://sequelize.org/api/v6/class/src/associations/belongs-to-many.js~belongstomany
 
-* []():<br></br> 
+*  Associations through Junction Table information provided by [Sequelize](https://sequelize.org):<br></br>https://sequelize.org/docs/v6/core-concepts/assocs/ 
 
 * []():<br></br> 
 
