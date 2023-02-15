@@ -119,7 +119,7 @@ Method 2 - File > Preferences > Setting:
 
 ## Usage - for the purposes of this demonstration, Git Bash will be used as my preferred terminal and MySQL Workbench will be used
 
-* A video of this application's usage can be viewed [here](#blank). If the link is non-functional, a copy of the video can be found in the "assets" folder.
+* A video of this application's usage can be viewed [here](https://drive.google.com/file/d/1_f5dkOjbTo1rSzolt0RRD8hyyWr05-bj/view?usp=sharing). If the link is non-functional, a copy of the video can be found in the "assets" folder.
 
 * To use this application, start by creating the database in MySQL either through the MySQL environment using MySQL Workbench to use the `CREATE DATABASE ecommerce_db;` script in [db/schema.sql](./db/schema.sql), OR through a command line.
     
