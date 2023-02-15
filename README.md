@@ -131,7 +131,16 @@ Method 2 - File > Preferences > Setting:
 
     ![Workbench Creating Database](./assets/screenshots/Workbench-Create-Database.PNG)
 
-* After the `ecommerce` database is created, use either of the two methods described in the [Express v4.17.1 Installation Section](#express-version-4171---required-to-establish-routes-to-database-to-use-my-sql-queries) to reach this repository through the preferred terminal.
+* Create a `.env` file with the following information (with the database password [DB_PW] being changed to your password that was established in the MySQL Server installation):
+    ```
+    DB_NAME='ecommerce_db'
+    DB_PW='password'
+    DB_USER='root'
+    ```
+    
+    * If you plan on uploading changes to this repo to a forked version or a cloned version, use a `.gitignore` to avoid security breaches.
+
+* After the `ecommerce` database is created and the environment file is created, use either of the two methods described in the [Express v4.17.1 Installation Section](#express-version-4171---required-to-establish-routes-to-database-to-use-my-sql-queries) to reach this repository through the preferred terminal.
 
 Method 1:
 
